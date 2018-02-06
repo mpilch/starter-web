@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## Inne 
 More changes
+
+##Copywright
+All right reserved
