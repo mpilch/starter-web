@@ -11,3 +11,4 @@ More changes
 
 ##Copywright
 All right reserved
+Nowa linia
